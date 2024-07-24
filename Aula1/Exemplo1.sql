@@ -59,3 +59,5 @@ WHERE id = 2;
 
 -- DELETE REGISTRO CIDADE
 DELETE FROM cidade WHERE id = 1;
+
+ALTER TABLE Fornecedor ADD email VARCHAR(30); 
